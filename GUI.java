@@ -9,6 +9,8 @@ public class GUI extends JFrame
     
     public GUI(Bot bot) 
     {
+
+
         super();
         this.bot = bot;
         console = new ConsolePanel();
